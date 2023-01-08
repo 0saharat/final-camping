@@ -67,4 +67,4 @@ Go Camp เป็นแพลตฟอร์มการจองออนไล
 
 ```
 ## 🔗 Links
-[![youtube](https://play-lh.googleusercontent.com/S4wylkvt2jz16hnG9IG0pAZosbB82nWWy8P-rQkb54uH-SCVd5L2j7z7x1Vz5pZvIRc)](https://youtu.be/5P_od3m8jO4)
+[![youtube](https://www.youtube.com/img/desktop/yt_1200.png)](https://youtu.be/5P_od3m8jO4)
